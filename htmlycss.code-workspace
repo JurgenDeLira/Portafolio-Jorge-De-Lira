@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Arq. Jorge De Lira/htmlycss"
+		},
+		{
+			"path": "../freelancer_fin"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "freelancer_inicio"
+	}
+}
